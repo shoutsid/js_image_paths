@@ -1,3 +1,7 @@
+> **Fork note:** this fork keeps the `js_image_paths` name and code and changes only the
+> gemspec's Rails cap from `< 8.0` to `< 9.0`, so it can be used from a Rails 8 application.
+> It is consumed from GitHub until an upstream release carries the same change.
+
 # JsImagePaths
 
 Easy access to your images in the Rails asset pipeline from your client side Javascript.
